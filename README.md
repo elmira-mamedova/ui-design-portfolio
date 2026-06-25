@@ -29,16 +29,19 @@ This repository contains a collection of user interface designs created in **Fig
 
 ## 1. Nike Landing Page
 Modern landing page for a sneaker brand.
+![Nike Landing Page](nike.png)
 
 ## 2. Furniture Website
 Custom furniture company website concept.
+![Furniture Website](furniture.png)
 
 ## 3. Cleaning Service Website
 Modern responsive cleaning service landing page.
+![Cleaning Service Website](cleaning.png)
 
 ## 4. Bike Landing Page
 Landing page concept for a bicycle store.
-
+![Bike Landing Page](bike.png)
 ---
 
 More projects coming soon...
